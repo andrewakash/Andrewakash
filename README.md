@@ -49,12 +49,12 @@ Currently pursuing **CSE @ SRM TRP Engineering College (2022–2026)** and explo
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="60" width="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/Aiml/Aiml-original.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="60" width="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/Power_bi/powerbi-original.svg" height="60" width="60">
 
 </div>
 
