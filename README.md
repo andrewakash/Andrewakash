@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hello, I'm Akash Andrew 🚀 </h1>
+<h1 align="center"> Hello, I'm  Andrew Akash 🚀 </h1>
 
 <h3 align="center">Aspiring Software Engineer | AI/ML Enthusiast | Web Developer from India 🇮🇳</h3>
 
